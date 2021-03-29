@@ -9,7 +9,7 @@
 <h2 align="center" style="color:black"> Projeto Concluído
 
 <h2 align="center">
-<img alt="screen shot" src="screen_shot/dio_angular_spa" width="600px">
+<img alt="screen shot" src="screen_shot/dio_angular_spa.png" width="600px">
 </h2>
 
 <p align="center">
