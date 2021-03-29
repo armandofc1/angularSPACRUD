@@ -28,6 +28,7 @@
 ## 🚀 O desafio
 
 Desafio feito no Bootcamp da Digital Innovation One.
+
 Nesse projeto foi criado uma Single Page Application com Angular, a missão foi criar uma página front-end utilizando componentes. 
 
 ## 🛠️ Tecnologias Utilizadas
